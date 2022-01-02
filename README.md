@@ -1,6 +1,6 @@
 Olá, Poétic@s!
 
-<strong> Eu sou técnica em Informática, Bacharel em Sistemas da Informação e Mestranda em Inovação em Tecnologias Educacionais. </strong>
+<strong> Eu sou técnica em Informática, Bacharela em Sistemas da Informação e Mestranda em Inovação em Tecnologias Educacionais. </strong>
 
 - 🎨 Hoje trabalho como UX/UI design
 - 🌱 Estudando Front-end e AI 
