@@ -2,7 +2,7 @@ Olá, Poétic@s!
 
 <strong> Eu sou técnica em Informática, Bacharela em Sistemas da Informação e Mestranda em Inovação em Tecnologias Educacionais. </strong>
 
-- 🎨 Hoje trabalho como UX/UI design
+- 🎨 Hoje trabalho com AI/NLP/HateSpeech/Sexism
 - 🌱 Estudando Front-end e AI 
 - ✍🏼 Um dos meus hobbys é escrever Poesia Compilada
 - 😄 Pronouns: Ela/Dela
