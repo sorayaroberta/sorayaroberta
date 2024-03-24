@@ -1,12 +1,8 @@
-Olá, Poétic@s!
 
-<strong> Eu sou técnica em Informática, Bacharela em Sistemas da Informação e Mestranda em Inovação em Tecnologias Educacionais. </strong>
+Hello, everyone!
 
-- 🎨 Hoje trabalho com AI/NLP/HateSpeech/Sexism
-- 🌱 Estudando Front-end e AI 
-- ✍🏼 Um dos meus hobbys é escrever Poesia Compilada
-- 😄 Pronouns: Ela/Dela
-- 🤩 Amo criar ideias e produtos que interseccionem as áreas de educação e computação
+I’m  speaker, writer, podcaster and PhD Student in Computer Science at Federal University of Pernambuco. I’m from Brazil, but currently I’m living in Paris-France. I hold a BSc in Information Systems and a MSc in Innovation in Educational Technologies. In my High School I created the Literaly Manifest Compiled Poetry (Poesia Compilada in Portuguese). I love to developer projects that envolved code, art and education. Print(“I’m Pyladies”)
+
 
 <div align="center">
   <a href="https://github.com/sorayaroberta">
