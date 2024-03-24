@@ -4,7 +4,7 @@ Hello, everyone!
 I’m  speaker, writer, podcaster and PhD Student in Computer Science at Federal University of Pernambuco. I’m from Brazil, but currently I’m living in Paris-France. I hold a BSc in Information Systems and a MSc in Innovation in Educational Technologies. In my High School I created the Literaly Manifest Compiled Poetry (Poesia Compilada in Portuguese). I love to developer projects that envolved code, art and education. Print(“I’m Pyladies”)
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sorayaroberta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorayaroberta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorayaroberta&layout=compact&langs_count=7&theme=midnight-purple"/>
@@ -16,7 +16,7 @@ I’m  speaker, writer, podcaster and PhD Student in Computer Science at Federal
   <img align="center" alt="Soraya-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Soraya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Soraya-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+</div> -->
   
    ##
   
